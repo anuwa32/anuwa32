@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#e91e63;">Anupriya</span></h1>
 <h3 align="center">💻 A passionate Full Stack Software Engineer</h3>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding Animation"/>
-</div>
-
 ---
 <img src="https://camo.githubusercontent.com/4fd007a9db2f46b92856dbba073aea1b9e0b927473eb566a2a8d5ccb5d819b0f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966" width="100%" />
 ---
